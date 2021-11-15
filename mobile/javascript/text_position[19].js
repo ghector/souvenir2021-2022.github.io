@@ -1,0 +1,1 @@
+﻿positionForPages[19]={page:19,positions:[{word:"\u00C8\u00F1\u00E7\u00F3\u00EA\u00E5\u00F5\u00F4\u00E9\u00EA\u00DE",left:0.156422,top:0.268940,width:0.471042,height:0.059853},{word:"\u00D0\u00E1\u00E9\u00E4\u00E5\u00DF\u00E1",left:0.658122,top:0.268940,width:0.284742,height:0.059853}]};

@@ -1,0 +1,1 @@
+﻿positionForPages[23]={page:23,positions:[{word:"\u00CD\u00E7\u00F0\u00E9\u00E1\u00E3\u00F9\u00E3\u00E5\u00DF\u00EF",left:0.435069,top:0.267796,width:0.472722,height:0.059853}]};

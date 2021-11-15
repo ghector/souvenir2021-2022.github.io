@@ -1,0 +1,1 @@
+﻿positionForPages[55]={page:55,positions:[{word:"\u00C4\u00E7\u00EC\u00EF\u00F4\u00E9\u00EA\u00FC",left:0.538258,top:0.266101,width:0.335391,height:0.059853}]};

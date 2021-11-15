@@ -1,0 +1,1 @@
+﻿positionForPages[161]={page:161,positions:[{word:"\u00CE\u00FF\u00ED\u00E5\u00F2",left:0.334250,top:0.266101,width:0.228885,height:0.059853},{word:"\u00E3\u00EB\u00FE\u00F3\u00F3\u00E5s",left:0.593794,top:0.266101,width:0.322875,height:0.059853}]};
